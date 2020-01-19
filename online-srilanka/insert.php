@@ -82,7 +82,7 @@ die();
 }
 }
 else{
-echo "password should not be empty";
+echo "email should not be empty";
 die();
 }
 ?>
